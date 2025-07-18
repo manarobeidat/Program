@@ -1,9 +1,6 @@
-<!DOCTYPE html>
-<html>
- <head>
-    <meta charset="UTF-8">
-    <title>Class 1</title>
-    <style>
+    
+
+            
         h1{
             color: chartreuse;
             font-size: 50px;
@@ -51,26 +48,17 @@
             border: 2px solid black;
         }
             
-        </style>
- </head>
-    <body>
-        <h1>Welcome to Class 1</h1>
-        <p>This is the first class in our series.</p>
-        <p>Here you will learn the basics of HTML and web development.</p>
-        <ul>
-            <li>Introduction to HTML</li>
-            <li>Basic Tags</li>
+        
+    h2,p { 
+            background-color: blueviolet;
+    }
+
+    
+    a:hover {
+            background-color: rgb(132, 35, 35) !important;
+            color: white;
+            font-size: 20px;}
             
-            <li>Creating a Simple Web Page</li>
-        </ul>
-        <button style="color: brown; background-color: rgb(167, 167, 179);
-         font-size: 40px; border-radius: 58px 40px 50px 10px;;"> mmmamanr </button>
-         <a  id ="Bb"      href="https://www.example.com" >bbbbbbbb</a>
-         <a  id="manar"    href ="https://www.example.com" > google</a>
-         <ul>
-            <li class="topics">HTML Structure</li>
-            <li class="topics">Elements and Attributes</li>
-            <li class="topics"> kkkkkkkk</li>
-            <li class="topics"> bbbbbbbb</li>   
-         </ul>
-         <a  id="ff" href="https://www.example.com" > nnnnnnnnnnn</a>
+        
+        
+            
