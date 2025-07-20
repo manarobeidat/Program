@@ -1,7 +1,7 @@
     
 
-            
-        h1{
+            /*  */
+        /* h1{ */
             color: chartreuse;
             font-size: 50px;
             background-color: rgb(112, 75, 147);
@@ -54,11 +54,83 @@
     }
 
     
-    a:hover {
+    /* a:hover {
             background-color: rgb(132, 35, 35) !important;
             color: white;
-            font-size: 20px;}
+            font-size: 20px;} */
             
-        
-        
+    .modern {
+            display: inline;
+            background-color: rgb(31, 139, 172);
+            border: 2px solid black;
+            border-radius: 10px;
+            padding: 10px;
+            margin: 5px;
+            color: rgb(255, 255, 255);
+            font-size: 20px;
+           
+            text-decoration: none;
+
             
+    } 
+     .modern a {
+            color: white;
+            text-decoration: none;
+            padding: 5px;
+            margin: 5px;
+        }
+        
+        .modern a:hover {
+            background-color: rgb(132, 35, 35) !important;
+            color: white;
+            font-size: 20px;
+        }
+        .footer {
+            background-color: rgb(0, 0, 0);
+            
+            text-align: center;
+            background-color: #c02075;
+            border-radius: 9px;
+            display: inline-block;
+        }
+        .footer-content {
+            border: #c02075 solid 2px;
+            border-radius: 9px;
+            padding: 700px;
+            color: white;
+            background-color: aquamarine;
+            font-size: 20px;
+            margin-left: auto;
+        }
+        .footer-contentt {
+            border: #c02075 solid 2px;
+            border-radius: 9px;
+            padding: 700px;
+            color: white;
+            background-color: aquamarine;
+            font-size: 20px;
+            margin-right: auto;
+        }
+        #nn {
+            list-style-type: none;
+            padding: 0;
+            margin: 0;
+            background-color: #cc78a5;
+            border-radius: 10px;
+            text-align: center;
+        }
+        #nn li {
+            display: inline;
+            margin: 0 10px;
+        }
+         #nn a {
+            color: white;
+            text-decoration: none;
+            padding: 10px 20px;
+            border-radius: 5px;}
+       */ #nn a:hover { 
+            background-color: #c02075;
+            color: white;
+            font-size: 20px;
+        }
+        
